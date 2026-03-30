@@ -8,7 +8,7 @@ Team Members:
 --- 
 
 ## Project Objective
-{The goal of this project is to make a robot car track and follow a ball, as well as retrive it amd bring it back to the person that through the ball. We plan on useing a few sennsors on the car such as camera lenses and speedomanter. We will have to 3D print a few parts for the car to be able the push a ball.}
+{The goal of this project is to make a robot car tha can track and follow a ball, as well as retrive it and bring it back to the person that through the ball. We plan on useing a few sennsors on the car such as camera lenses and speedomanter. We will have to 3D print a few parts for the car to be able the push a ball.}
 
 
 ## Contributions
