@@ -8,7 +8,7 @@ Team Members:
 --- 
 
 ## Project Objective
-{The goal of this project is to make a robot car track and fllow a ball, as well as retrive it amd bring it back the the person that throug the ball. We plan on useing a few sennsors on the car such as camera lenses and speedomanter. We will have to 3D print a few parts for the car to be able the push a ball.}
+{The goal of this project is to make a robot car track and follow a ball, as well as retrive it amd bring it back to the person that through the ball. We plan on useing a few sennsors on the car such as camera lenses and speedomanter. We will have to 3D print a few parts for the car to be able the push a ball.}
 
 
 ## Contributions
@@ -16,22 +16,27 @@ Team Members:
 
 
 ## Project Plan
-{How will we do it?  What resources will we use (e.g., specific online materials, specific chapters from a textbook, etc.)?}
+{In this project we will have to use some software to develope attachment for the car. On top of this we will need to watch somevideos and educate ourselves on the speedometer sensor. Also we will use what we have learned from the class so far such as tools like python, VS code ex. Finallly we will use the help of or LLM to make code.}
 
 
 ## Milestones/Schedule Checklist
-{What are the tasks that you need to complete?  Who is going to do them?  When will they be completed?}
-- [x] Complete this proposal document.  *Due March 31*
-- [ ] {add tasks here}
+- [ ] Complete this proposal document.  *Due March 31*
+- [ ] Design 3d attachment
+- [ ] Start the codeing
+- [ ] Make sure the camera is detecting a red ball
+- [ ] Make sure code is calculating error of ball to be able to move to it
+- [ ] Make sure speedometer works
+- [ ] Does car make effort to go to ball
 - [ ] Create progress report.  *Due April 21*
-- [ ] {add more tasks here}
+- [ ] Do a test run
+- [ ] Correct bugs/erros
 - [ ] Create final presentation.  *Due May 5*
-- [ ] {you might have some more tasks here}
+- [ ] Make video
 - [ ] Provide system documentation (README.md).  *Due May 15*
 
 
 ## Measures of Success
-{How will you know you succeeded?  If you were to receive partial credit, what should we look for?}
+{We will know we susseded if the car is able to detect  red ball has been thrown, and it goes and gets it and beings it back to its original spot.}
 
 
 
