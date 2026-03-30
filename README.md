@@ -3,16 +3,16 @@
 
 Team Members:
 - {Carter Gill}, {Cartergi@buffalo.edu}
-- {Member 2 Name}, {Member 2 email}
+- {Anthony Fazio}, {afazio@buffalo.edu}
 
 --- 
 
 ## Project Objective
-{What are you proposing to do?}
+{The goal of this project is to make a robot car track and fllow a ball, as well as retrive it amd bring it back the the person that throug the ball. We plan on useing a few sennsors on the car such as camera lenses and speedomanter. We will have to 3D print a few parts for the car to be able the push a ball.}
 
 
 ## Contributions
-{What is new/unique/interesting about this project?}
+{The end goal of this project is perfct for someone who is in apparment living who dosen't allow pets, but still wnats to be abble to play fetch with something. Another potentioal applacation is if you are praticing putting for golf and you miss the hole but want to try from the same spot the robot can go retrive the ball for you to hit again.}
 
 
 ## Project Plan
