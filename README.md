@@ -36,7 +36,7 @@ Team Members:
 
 
 ## Measures of Success
-{We will know we susseded if the car is able to detect  red ball has been thrown, and it goes and gets it and beings it back to its original spot.}
+{We will know we succeded if the car is able to detect  red ball has been thrown, and it goes and gets it and beings it back to its original spot.}
 
 
 
