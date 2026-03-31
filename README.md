@@ -36,7 +36,7 @@ Team Members:
 
 
 ## Measures of Success
-{We will know we succeded if the car is able to detect  red ball has been thrown, and it goes and gets it and beings it back to its original spot. For partial success we will be abble to have the camera is abble to detect the red ball, follow the red ball, as well as speed up and slow down when approprite.}
+{We will know we succeded if the car is able to detect red ball has been thrown, and it goes and gets it and brings it back to its original spot. For partial success we will be able to have the camera is able to detect the red ball, follow the red ball, as well as speed up and slow down when approprite.}
 
 
 
