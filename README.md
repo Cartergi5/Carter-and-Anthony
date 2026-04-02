@@ -20,24 +20,32 @@ Team Members:
 
 
 ## Milestones/Schedule Checklist
-- [ ] Complete this proposal document.  *Due March 31*
-- [ ] Design 3d attachment
-- [ ] Start the codeing
-- [ ] Make sure the camera is detecting a red ball
-- [ ] Make sure code is calculating error of ball to be able to move to it
-- [ ] Make sure speedometer works
-- [ ] Does car make effort to go to ball
+- [x ] Complete this proposal document.  *Due March 31*
+- [ ] Start the codeing for color detection *April 7*
+- [ ] Make sure the camera is detecting a red object *April 10*
+- [ ] Make sure code is calculating error of ball to be able to move to it *April 14*
+- [ ] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
+- [ ] locilization useing aruco tags so car can amke its way back to original spot *April 16*
 - [ ] Create progress report.  *Due April 21*
-- [ ] Do a test run
-- [ ] Correct bugs/erros
+- [ ] Do a test run *April 21*
+- [ ] Make ball come back to original spot *April 23*
+- [ ] Correct bugs/erros *April 23*
+- [ ] Design 3d attachment *April 23*
+- [ ] Strech goal (GPS location) *May 5*
 - [ ] Create final presentation.  *Due May 5*
-- [ ] Make video
+- [ ] Make video *May 10*
 - [ ] Provide system documentation (README.md).  *Due May 15*
 
 
 ## Measures of Success
 {We will know we succeded if the car is able to detect red ball has been thrown, and it goes and gets it and brings it back to its original spot. For partial success we will be able to have the camera is able to detect the red ball, follow the red ball, as well as speed up and slow down when approprite.}
 
-
+- [ ] Color is detected
+- [ ] Object (Ball) detected
+- [ ] Moves to Ball/Object color
+- [ ] Can move with object staying attached
+- [ ] Knows where it is at (aruco)
+- [ ] 3d printed catcher
+- [ ] gps location (strech goal)
 
 
