@@ -22,7 +22,7 @@ Team Members:
 ## Milestones/Schedule Checklist
 - [x] Complete this proposal document.  *Due March 31*
 - [x] Start the codeing for color detection *April 7*
-- [ ] Make sure the camera is detecting a red object *April 10*
+- [x] Make sure the camera is detecting a yellow object *April 10*
 - [ ] Make sure code is calculating error of ball to be able to move to it *April 14*
 - [ ] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
 - [ ] locilization useing aruco tags so car can amke its way back to original spot *April 16*
