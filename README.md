@@ -23,10 +23,10 @@ Team Members:
 - [x] Complete this proposal document.  *Due March 31*
 - [x] Start the codeing for color detection *April 7*
 - [x] Make sure the camera is detecting a yellow object *April 10*
-- [ ] Make sure code is calculating error of ball to be able to move to it *April 14*
+- [x] Make sure code is calculating error of ball to be able to move to it *April 14*
 - [ ] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
-- [ ] locilization useing aruco tags so car can amke its way back to original spot *April 16*
-- [ ] Create progress report.  *Due April 21*
+- [ ] locilization useing aruco tags so car can make its way back to original spot *April 16*
+- [x] Create progress report.  *Due April 21*
 - [ ] Do a test run *April 21*
 - [ ] Make ball come back to original spot *April 23*
 - [ ] Correct bugs/erros *April 23*
