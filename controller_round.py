@@ -134,7 +134,7 @@ def my_pipeline(frame):
     mask = cv2.erode(mask, kernel, iterations=1)
     mask = cv2.dilate(mask, kernel, iterations=2)
 
-    display = cv2.bitwise_and(frame, frame, mask=mask)
+    display = frame.copy()
     display[0:_params['cropTop'], 0:w] = 100
     display[h-_params['cropBottom']:h, 0:w] = 100
 
