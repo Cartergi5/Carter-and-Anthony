@@ -30,7 +30,7 @@ Team Members:
 - [ ] Do a test run *April 21*
 - [ ] Make ball come back to original spot *April 23*
 - [ ] Correct bugs/erros *April 23*
-- [ ] Design 3d attachment *April 23*
+- [x] Design 3d attachment *April 23*
 - [ ] Strech goal (GPS location) *May 5*
 - [ ] Create final presentation.  *Due May 5*
 - [ ] Make video *May 10*
