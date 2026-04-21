@@ -22,8 +22,8 @@ a turn.}
 
 ## Extra work
 
-{For our extended liste we also tasked ourselves with redesigning the car housing to accomidate aruco tags, in this we have successfully be able
-to add a top, and two side places for aruci tags for the future car to be able to know where it is around a room.}
+{For our extended list we also tasked ourselves with redesigning the car housing to accomidate aruco tags, in this we have successfully be able
+to add a top, and two side places for aruco tags for the future car to be able to know where it is around a room.}
 
 ## Next steps
 
