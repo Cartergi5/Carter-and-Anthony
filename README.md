@@ -24,7 +24,7 @@ Team Members:
 - [x] Start the codeing for color detection *April 7*
 - [x] Make sure the camera is detecting a yellow object *April 10*
 - [x] Make sure code is calculating error of ball to be able to move to it *April 14*
-- [ ] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
+- [x] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
 - [ ] locilization useing aruco tags so car can make its way back to original spot *April 16*
 - [x] Create progress report.  *Due April 21*
 - [ ] Do a test run *April 21*
@@ -40,12 +40,12 @@ Team Members:
 ## Measures of Success
 {We will know we succeded if the car is able to detect red ball has been thrown, and it goes and gets it and brings it back to its original spot. For partial success we will be able to have the camera is able to detect the red ball, follow the red ball, as well as speed up and slow down when approprite.}
 
-- [ ] Color is detected
-- [ ] Object (Ball) detected
-- [ ] Moves to Ball/Object color
+- [x] Color is detected
+- [x] Object (Ball) detected
+- [x] Moves to Ball/Object color
 - [ ] Can move with object staying attached
 - [ ] Knows where it is at (aruco)
-- [ ] 3d printed catcher
+- [x] 3d printed catcher
 - [ ] gps location (strech goal)
 
 
