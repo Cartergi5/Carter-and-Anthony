@@ -200,11 +200,16 @@ def my_pipeline(frame):
         steering = max(STEERING_MIN, min(STEERING_MAX,
                         error * _params['steeringPerPixel']))
 
-        # optional: slower in ball mode for better tracking
-        if mode == "ball":
-            throttle = min(1, max(0.15, 1 - abs(steering)/100)) * min(_params['maxThrottle'], 20)
+        if radius > 70:
+            base_throttle = 0
+        elif radius > 50:
+            base_throttle = 6
+        elif radius > 30:
+            base_throttle = 12
         else:
-            throttle = min(1, max(0.1, 1 - abs(steering)/100)) * _params['maxThrottle']
+            base_throttle = 20
+
+        throttle = base_throttle * max(0.4, 1 - abs(steering)/100)
 
         if isDriving:
             conn.drive(steering, throttle)
