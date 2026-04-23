@@ -6,7 +6,7 @@
 
 {In the code so far we have edited the orginal controler.py orginialy used to detect and follow lines. Now edited we have been able to 
 successfull get the code detecting a round object of color purple. In the code we were able to add a round border to the round object 
-to show it in the cameras frame of view and also block out the all other unessisary suroundings. To see the code and its progession see 
+to show it in the cameras frame of view and also black out the all other unessisary suroundings. To see the code and its progession see 
 controler_round.py under the main branch. On top of this we are able to run the code in DEV mode and see the object outlined, detected, 
 as well as see the throttle and turns being moved as we move the ball around the screen.}
 
