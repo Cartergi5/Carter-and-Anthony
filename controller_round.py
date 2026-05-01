@@ -211,14 +211,16 @@ def my_pipeline(frame):
 
         throttle = base_throttle * max(0.4, 1 - abs(steering)/100)
 
+		print(f"Ball radius={radius:.1f} steering={steering:.1f} throttle={throttle:.1f} isDriving={isDriving}")
+
         if isDriving:
             conn.drive(steering, throttle)
 
     else:
         if isDriving:
             if mode == "ball":
-                # search slowly for ball
-                conn.drive(-12, 8)
+                # no ball detected, stop car
+                conn.drive(0, 0)
             else:
                 # original fallback for line
                 conn.drive(-10, 10)
