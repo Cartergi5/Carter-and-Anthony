@@ -1,7 +1,7 @@
 # Final Report
 # Carter-and-Anthony
 # {Car Chase}
-# Date
+# 05/14/2026
 
 Team Members:
 - {Carter Gill}, {Cartergi@buffalo.edu}
@@ -11,6 +11,10 @@ Team Members:
 - Are motivation for this project was a few things. The first is we wonted to coninue on with the idea of detection from class. We wanted to build a good algorithim to dected a round object as well as a color. This is importenat becuase it builds on computer learning and helps to build on AI. On top of this we wanted to make our car dected and follow a purple ball and bring it back. This idea is so that if someone is practiveing golf they can put and a roboy will go and get the ball so you dont have to leave your spot.
 
 - We also wanted to help out and make the racer car better for future classes, so we desngihed some new attachements for the cra. The first being a pusher for the car to push a ball around. Also we designed a new cover for the car with aruco tag holders on all sides so that camerras can be used to know where the car is around a room.
+
+- In this project we had a few main objectives. The first was we neded to design a 3d attachment to the cra that would allow the car to push a ball around (see figure 1) this was the second version we came up with and designed. The designed was intended at low speeeds to keep the ball trapped inside with the design of the traingular peice in the middle and the curled sides keeping the ball moving in a circular formation when bumped around. On top of this we also designed a new houseing for the racer cars that alows aruco tages to be placed on all sides so cameras can be used to track the car (see figure 2 and 3) note: STL and fusion files emailed from Cartergi@buffalo.edu
+
+- The next big thing we did was make our own algorithm to find, detect and track a ball based on shape and color. Also we needed the camera to detect and trcak and arucoi tage as well. We then combined these two applications and 3d designed parst so that car would go track a rolling ball, catch it, then find an aruco tag and drives the ball to its goal.
   
 ### Demonstration
 Videos-
