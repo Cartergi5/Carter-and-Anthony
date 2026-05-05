@@ -28,14 +28,19 @@ Figure 3: Aruco tag car houseing view 2
 
    
 ### Installation Instructions
-- Provide **detailed** installation instructions so your audience can re-create your project.
-    - Include command line instructions in markdown code blocks so it's easy for your audience to copy-paste the commands.
+- Need (venvs) virtual enviorment from class
+- Need UB_Racer package
+  
+    -server.py (part of class)
+  
+    -controller_round-aruco.py (our edited code)
 
 ### How to Run the Code
 - Now that your audience has installed the necessary software, how do they run it?
 
 ### References
 -Claud
+
 -Chat GPT
 
 ### Future Work
@@ -51,6 +56,10 @@ Figure 3: Aruco tag car houseing view 2
 - Progess Report {ignore this}
 - controler_round.py {code for ball and color dection as well as car controls}
 - README.md {this is final report}
+- aruco_case_car_v1.stl {printable file for case}
+- aruco_case_car_vs.f3d {case openable in fusion}
+- plate.stl {printable file for plate of car}
+- pusher_2.stl {ball pusher attachment for car printable}
   
 Your repository should have (at a minimum):
 - A `README.md` file (details described above)
@@ -59,5 +68,4 @@ Your repository should have (at a minimum):
 
 ---
 
-## Due Date
-Your README and demonstration are due by 5pm on Thursday, May 14.
+
