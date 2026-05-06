@@ -18,6 +18,7 @@ Team Members:
   
 ### Demonstration
 Videos-
+
 Pictures-
 <img width="1536" height="2048" alt="IMG_8677" src="https://github.com/user-attachments/assets/df0a3699-c924-47f9-b737-322688116265" />
 Figure 1: 3d pusher for Racer car
@@ -53,6 +54,8 @@ Figure 4: Ball/shape detection
 
 ### Future Work
 - In the future if we had more time we would be able to fill the room with aruco tags and assign them in the code so that the car knows its location around the room and can move more freely. On top of this we should edit the car so that it could make tighter turns within the confines of a room. Finals if time allowed we would have liked to add a robotic arm to actually grab the object rather than just push it.
+
+- Also in the future we would choose a different ball to move. With the original one we had it was rubber and would roll up under the car due to friction between the ball and 3d printed catcher. We did run another test using a non-rubber green round object as seen in video and it worked much better.
 
 Future note: Within the controller_round_aruco.py there is built in line following we have just ignored this and only added/edited our own algorithm for round object and color detection.
 ---
