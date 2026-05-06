@@ -25,10 +25,10 @@ Team Members:
 - [x] Make sure the camera is detecting a yellow object *April 10*
 - [x] Make sure code is calculating error of ball to be able to move to it *April 14*
 - [x] Make sure speedometer works (car is changeing speed based on distance from ball) *April 14*
-- [ ] locilization useing aruco tags so car can make its way back to original spot *April 16*
+- [x] locilization useing aruco tags so car can "socore a goal" *April 16*
 - [x] Create progress report.  *Due April 21*
-- [ ] Do a test run *April 21*
-- [ ] Make ball come back to original spot *April 23*
+- [x] Do a test run *April 21*
+- [ ] Make ball go into goal *April 23*
 - [ ] Correct bugs/erros *April 23*
 - [x] Design 3d attachment *April 23*
 - [ ] Strech goal (GPS location) *May 5*
@@ -44,7 +44,7 @@ Team Members:
 - [x] Object (Ball) detected
 - [x] Moves to Ball/Object color
 - [ ] Can move with object staying attached
-- [ ] Knows where it is at (aruco)
+- [x] Knows where it is at (aruco)
 - [x] 3d printed catcher
 - [ ] gps location (strech goal)
 
