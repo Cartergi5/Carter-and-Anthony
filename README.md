@@ -17,7 +17,7 @@ Team Members:
 - The next big thing we did was make our own algorithm to find, detect and track a ball based on shape and color. Also we needed the camera to detect and trcak and aruco tage as well. We then combined these two applications and 3d designed parts so that car would go track a rolling ball, catch it, then find an aruco tag and drives the ball to its goal. We designed our test to demonstate this working by having the car track and follow a ball, catch it, and when the ball is caught and out of sight the car will then begin to look for an aruco tag (aka our goal), once the aruco tag is found the code will dtermine the distance away and move the ball into the aruco tag/goal.
   
 ### Demonstration
-Videos-
+Videos- https://youtu.be/bf6a4pulwDg
 
 Pictures-
 <img width="1536" height="2048" alt="IMG_8677" src="https://github.com/user-attachments/assets/df0a3699-c924-47f9-b737-322688116265" />
