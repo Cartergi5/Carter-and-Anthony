@@ -44,6 +44,16 @@ Figure 4: Ball/shape detection
 
 ### How to Run the Code
 - Now that your audience has installed the necessary software, how do they run it?
+- Open up a terminal window and cd to where ub_code is on your machine
+- Start the virturl enviorment
+- Then cd to where the python scripts are in the ub_racer folder (here is my path C:\Users\antho\OneDrive\Desktop\IE482\temp\spring2026\Projects\ub_racer\client\python)
+- Now open a 2nd terminal window and go to the main class folder and start your 2nd virturl enviorment
+- cd to the samee folder as before
+- In the first terminal window run this python server.py --dev --username YOUR_USERNAME_GOES_HERE
+- In the second terminal window run this python controller.py --dev --port PORT_YOUR_SERVER_IS_RUNNING_ON (the port is given to you from the above comand)
+- In the UI set the camera to 0 or 1 depending on you machine then load the picture
+- Once you hit enable your code will start running and you will be abble to see what is happing
+- NOTE this is for running in dev mode only!!!!! For you to run on the robot you must concet to the robot server as well as know the host IP address.
 
 ### References
 -Claud
